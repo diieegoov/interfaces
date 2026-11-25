@@ -1,5 +1,5 @@
 # Práctica de interfaces multimodales
-<img width="1280" height="720" alt="2026-11-25-22-39-04" src="https://github.com/user-attachments/assets/da456880-9586-4c52-a652-9668940dce95" />
+<img width="1920" height="1080" alt="download" src="https://github.com/user-attachments/assets/ea77560f-1b91-4098-b25d-8d9e202f609f" />
 
 ## Controles
 
