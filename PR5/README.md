@@ -3,6 +3,8 @@
 ## Descripción
 Escena de realidad virtual creada con Unity y Google Cardboard para Android. Incluye un terreno, dos cubos recolectables, una esfera recuperadora y un objeto de la Asset Store.
 
+<img width="692" height="388" alt="download (1)" src="https://github.com/user-attachments/assets/eeeb0fa3-923c-4cc1-af03-be7d1c77a515" />
+
 ## Controles
 - Mirar hacia abajo para avanzar y levantar la mirada para detenerse.
 - Mirar un cubo durante 1,2 segundos, a menos de 3 metros, para recogerlo.
